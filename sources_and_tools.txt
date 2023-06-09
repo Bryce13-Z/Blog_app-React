@@ -1,0 +1,37 @@
+# React Router Set up Tutorial
+https://www.freecodecamp.org/news/how-to-use-react-router-version-6/
+1. install react-router-dom 
+2. BrowserRouter wrap the App element 
+3. Create multiple components
+4. Define routes - Routes, Route
+5. Use "Link" to navigate to routes 
+6. Use "useNavigate" to push users to various pages, and use "useLocaiton" to get the current URL 
+
+
+# Redux Toolkit Setup Tutorial 
+https://redux.js.org/tutorials/quick-start
+Summary 
+1. Installation @reduxjs/toolkit react-redux 
+2. create a Redux store with configureStore 
+3. Provide the Redux store to the React application components 
+4. Create a Redux "slice" reducer with createSlice 
+5. Use the React-Redux useSelector/useDispatch hooks in React components 
+
+# FormData
+https://zh.javascript.info/formdata
+FormData object can be used as a body in the request and is sent to backend. 
+
+
+# How to make API call in React Redux Toolkit | React Redux Tutorial
+https://www.youtube.com/watch?v=2JBx_06dD1k
+
+
+# Nested Routes 
+
+# axios -> header -> config
+what is content-type
+    application/json
+    multiple-part/form-data 
+
+# How to display a base64 string image file 
+in src, we let the content be like src={`data:image/png;base64,${user.userIcon}`}
